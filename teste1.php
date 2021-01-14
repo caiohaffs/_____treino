@@ -1,2 +1,4 @@
 <?php 
-//vamo nessa
+//vamo nessa  
+
+funciton();
